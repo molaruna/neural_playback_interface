@@ -39,7 +39,8 @@ Your baseline noise level should look something like this:
 
 To create a graph like the one above, use MATLAB's `pspectrum` function.
 
-Lastly, before playing back real neural data, you may also want to test an active baseline signal by playing simple test data, such as a sine wave.
+Lastly, before playing back real neural data, you may also want to test an active baseline signal by playing simple test data, such as a sine wave. Here is a playback comparison from a 40 minute recording session with a 250Hz sampling rate: 
+![playback_comparison](images/playback_comparison.png)
 
 Summary checklist before collecting data:
 -------------
