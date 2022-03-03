@@ -6,7 +6,7 @@ Benchtop testing setup that allows "playback" of RC+S data into device
 Preprocessing neural data:
 -------------
 
-In MATLAB, process the raw recorded neural data into a matlab formatted table and add the file (RawDataTD.mat) to your workspace. Then, transform the data into an audio-compatible format using this MATLAB function: [audioOut.m](code/audioOut.m)
+In MATLAB, process the raw recorded neural data into a matlab formatted table and add the file (RawDataTD.mat) to your workspace. Then, transform the data into an audio-compatible format using this MATLAB function: [audioOut.m](audioOut.m)
 
 
 Overview of the DAC setup:
