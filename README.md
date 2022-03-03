@@ -1,7 +1,7 @@
 # UCSF_benchtop_testing
 Benchtop testing setup that allows "playback" of RC+S data into device 
 
-![hardware demo](/Volumes/GoogleDrive/My Drive/UCSF_Neuroscience/starr_lab_MO/studies/gamma_entrainment/playback_interface/hardware_setup.png)
+![hardware demo](hardware_demo.png)
 
 Preprocessing neural data:
 -------------
