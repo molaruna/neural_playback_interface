@@ -1,7 +1,7 @@
 # UCSF_benchtop_testing
 Benchtop testing setup that allows "playback" of RC+S data into device 
 
-![hardware demo](hardware_demo.png)
+![hardware demo](hardware_setup.png)
 
 Preprocessing neural data:
 -------------
