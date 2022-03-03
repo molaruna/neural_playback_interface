@@ -1,7 +1,7 @@
 # UCSF_benchtop_testing
 Benchtop testing setup that allows "playback" of RC+S data into device 
 
-![hardware demo](hardware_setup.png)
+![hardware demo](images/hardware_setup.png)
 
 Preprocessing neural data:
 -------------
@@ -35,7 +35,7 @@ Using the DAC setup:
 * Recommended baseline -- record noise while the lid is shut without playing data for 5 minutes to make sure the setup is working properly.
 
 Your baseline noise level should look something like this: 
-![baseline noise level](baseline_noisefloor.png)
+![baseline noise level](images/baseline_noisefloor.png)
 
 To create a graph like the one above, use MATLAB's `pspectrum` function.
 
