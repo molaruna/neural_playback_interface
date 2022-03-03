@@ -35,7 +35,7 @@ Using the DAC setup:
 * Recommended baseline -- record noise while the lid is shut without playing data for 5 minutes to make sure the setup is working properly.
 
 Your baseline noise level should look something like this: 
-![baseline noise level](images/baseline_check_closed.jpg)
+![baseline noise level](baseline_noisefloor.png)
 
 To create a graph like the one above, use MATLAB's `pspectrum` function.
 
